@@ -1,7 +1,7 @@
 ---
 template: about-page
 slug: /about
-title: About Foundation
+title: About
 ---
 **Curious.** Engineer of systems. Marketer. Researcher. Implementer. Change agent. Lover of crazy ideas.
 
