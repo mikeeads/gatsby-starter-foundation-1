@@ -1,53 +1,71 @@
 ---
 template: blog-post
-title: Desk for minimalists
-slug: minimalists-desk
-date: 2020-05-13 12:46
-description: sdasd
-featuredImage: /assets/bench-accounting-nvzvopqw0gc-unsplash.jpg
+title: The Internet of the Future
+slug: internet-future
+date: 2013-11-13 12:46
+description: This is the future. The ability to collect and accurately analyze
+  personal or situational information will continue to lead us to a future full
+  of increasingly contextual applications. Applications that are increasingly
+  smart. They will help us be more productive. They will help us see only things
+  that are relevant. This is one of the most important tech trends today.
+featuredImage: /assets/hockey.jpg
 ---
-Uh, is the puppy mechanical in any way? Maybe I love you so much I love you no matter who you are pretending to be. If rubbin' frozen dirt in your crotch is wrong, hey I don't wanna be right. I found what I need. And it's not friends, it's things.
+What does the Internet of the future look like?
 
-That's the ONLY thing about being a slave. OK, if everyone's finished being stupid. Bender, we're trying our best. Fry! Stay back! He's too powerful! I just told you! **You've killed me!** *And yet you haven't said what I told you to say!* How can any of us trust you?
+Think back ten years ago. The Internet of 2003 is significantly different than the Internet of 2013.
 
-![Royal Mail](/assets/royal-mail-unsplash.jpg "Royal Mail from Unsplash")
+Much has been written on this topic already but here I will summarize what I see the future of the Internet and of technology, in general, looking like.
 
-## It doesn't look so shiny to me.
+## The Age of Context
 
-No! I want to live! There are still too many things I don't own! It doesn't look so shiny to me. I'm just glad my fat, ugly mama isn't alive to see this day. Soon enough. I'm sure those windmills will keep them cool.
+Incremental improvements in hardware design, quality, and speed will continue. However, as in recent years, the biggest value moving forward is going to be through software. This is a trend that has been happening for several years now. Software is where it is at.
 
-![]()
+Context means situational awareness. Collecting information quickly then responding to the world around us. As humans, we do it almost unconsciously. There are a lot of situations, however, in modern life that our brains obviously cannot handle the deluge of information that is available today. This is where technology is here for the rescue.
 
-1. Guards! Bring me the forms I need to fill out to have her taken away!
-2. Have you ever tried just turning off the TV, sitting down with your children, and hitting them?
-3. You, a bobsleder!? That I'd like to see!
+This certainly isn’t new. Just think of all the things already made contextual:
 
-### Daylight and everything.
+* Advertising — This is the beauty of internet marketing — improving the quality of the interaction with a potential client or customer
+* Google news knows where you are and shows you local news
+* Google Now and Siri (Apple recently [acquired Cue](https://appleinsider.com/articles/13/10/03/rumor-apple-may-have-acquired-personal-assistant-app-cue-for-at-least-35m), a personal assistant service similar to Google Now for $60m)
+* All of our smart devices that know whether you want landscape or portrait mode
+* Reading apps that automatically adjust screen brightness and color based on the time of day
+* The M7 chip in Apples new phones does motion sensing — this is contextual information!
+* Anti-lock brakes (been around [for decades](http://en.wikipedia.org/wiki/Anti-lock_braking_system)), Electronic stability control, or cruise control that keeps your distance from the car in front of you.
+* The fire alarm in our homes.
+* Amazon or Netlix’s relevant products recommendation features
+* Goodread
+* In enterprise storage, [FAST](http://www.emc.com/corporate/glossary/fully-automated-storage-tiering.htm). Fully automated storage tiering. It just knows.
 
-A true inspiration for the children. Anyone who laughs is a communist! Can I use the gun? Oh, how I wish I could believe or understand that! There's only one reasonable course of action now: kill Flexo!
+We could think of dozens more. Obviously the Age of Context is already here.
 
-* Fry! Stay back! He's too powerful!
-* Look, last night was a mistake.
-* Please, Don-Bot… look into your hard drive, and open your mercy file!
+## Sensors
 
-And I'm his friend Jesus. One hundred dollars. There, now he's trapped in a book I wrote: a crummy world of plot holes and spelling errors! No! The cat shelter's on to me.
+The proliferation of increasingly affordable sensors allows for more and more data to be collected about people, processes, machines, and things. The more data collected about us as we interact with technology, the more contextualized our experience can be. It isn’t just about collecting more and more data, it is about taking that data to improve our business and improve our lives.
 
-Fry! Quit doing the right thing, you jerk! I'm sure those windmills will keep them cool. I'm Santa Claus! Leela's gonna kill me. Then we'll go with that data file!
+This is the future. The ability to collect and accurately analyze personal or situational information will continue to lead us to a future full of increasingly contextual applications. Applications that are increasingly smart. They will help us be more productive. They will help us see only things that are relevant. This is one of the most important tech trends today.
 
-That's right, baby. I ain't your loverboy Flexo, the guy you love so much. You even love anyone pretending to be him! Bite my shiny metal ass. Tell them I hate them. Yeah, and if you were the pope they'd be all, "Straighten your pope hat." And "Put on your good vestments."
+## Enter the Internet of Everything
 
-That's a popular name today. Little "e", big "B"? Hey, whatcha watching? A sexy mistake. A true inspiration for the children. Shut up and get to the point!
+The virtual conversations going on all around us are expanding. They are not just expanding in number, they are exploding!
 
-Ven ve voke up, ve had zese wodies. Oh, all right, I am. But if anything happens to me, tell them I died robbing some old man. So, how 'bout them Knicks? Oh Leela! You're the only person I could turn to; you're the only person who ever loved me.
+According to Cisco, more than [37 billion](http://blogs.cisco.com/ioe/the-internet-of-everything-has-begun/) new things will be connected to the Internet by 2020.
 
-Shut up and get to the point! Take me to your leader! I can explain. It's very valuable. You guys realize you live in a sewer, right?
+The Internet of Everything (IoE) is the networked connection of people, process, data, and things and the increased value that occurs as “everything” comes online. The IoE literally means E-V-E-R-Y-T-H-I-N-G- Ideas don’t get broader in scope or more impactful than this.
 
-Robot 1-X, save my friends! And Zoidberg! Oh Leela! You're the only person I could turn to; you're the only person who ever loved me. I guess because my parents keep telling me to be more ladylike. As though!
+This phenomenon is what is enabling and what will continue to enable [the mesh](http://rcm-na.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=shayousaw0f-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B0043RSIZU)— the sharing economy. Selling one thing multiple times (think *Zip Car*, *Netflix*,*Spotify*).
 
-I daresay that Fry has discovered the smelliest object in the known universe! Oh right. I forgot about the battle. Oh dear! She's stuck in an infinite loop, and he's an idiot! Well, that's love for you.
+Between technologies such as **hadoop** and other big data analytics platforms,**IPv6** to allow each of the billions of nodes in the IoE to have a unique address, and increasingly inexpensive **sensors,** this phenomenon is coming ever closer to reality.
 
-You wouldn't. Ask anyway! Is today's hectic lifestyle making you tense and impatient? Ven ve voke up, ve had zese wodies. Doomsday device? Ah, now the ball's in Farnsworth's court!
+Another way to describe it is that it connects the physical world to the internet by using microsensors on the network to make everyday objects become connected and intelligent.
 
-Fatal. Maybe I love you so much I love you no matter who you are pretending to be. Really?! You can see how I lived before I met you. Alright, let's mafia things up a bit. Joey, burn down the ship. Clamps, burn down the crew.
+## Metcalf’s Law
 
-Enough about your promiscuous mother, Hermes! We have bigger problems. Bender, being God isn't easy. If you do too much, people get dependent on you, and if you do nothing, they lose hope. You have to use a light touch. Like a safecracker, or a pickpocket.
+Think of Metcalf’s Law. The value of a network increases proportionality to the square of the number of users. When billions (or even trillions) of people, processes, data, and things on this vast network around the world, the value will be enormous. World changing.
+
+This is a huge opportunity. Hundreds of billions, even trillions of dollars of opportunity and value will be created over the coming decade. The vast majority of the physical world is currently NOT connected to the internet.
+
+Think of the customer experiences possible in the internet of everything when you can know exactly who your customer is and how they interact with your products. Think of the innovation that will happenin a world when you have trillions of data points to create from. In business, the **asset utilization and supply chain efficiency** when you know exactly when and where every single product or resource is available. The benefits go on and on.
+
+## What does this mean?
+
+Skate to where the puck is going. The pace of change of course is not going to slow down and businesses must not passively wait for new opportunities provided by the IoE. Change or die.
